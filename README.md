@@ -7,3 +7,42 @@ I have been working with high intensive algorithms and processes, using virtual 
 ## How did I get here?
 Well, I studied Technical Engineer of Topography in Madrid, but the 2008 crisis hit me as well as other people... So, it was the turn of reinventing myself and I started to learn programming. I was hired in a marketing analyst company where I have grown a lot, but I think I am able to do a better work and to develop better products if I would have more knowledge in Data Science. In the same way, it is a field that I feel confortable with and I want to learn much more about it.
 
+
+## Hobbies
+I play the guitar in "Father and Clonpany" cover band (I will confess why this name, but not now) and also I sing too.
+I like taking a walk with my dog in nature.
+I really like boardgames!
+I love visiting cities and museums.
+I enjoy coding!
+
+
+<!--
+**marcosmarinalopez/marcosmarinalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+<details>
+<summary>Technologies</summary>
+
+| Tech | Level |
+|-----:|-----------|
+|.NET| ****|
+|MySQL| ****|
+|Docker| **|
+|Kubernetes| **|
+|Python| *|
+|     3| SQL       |
+
+</details>
+
+-->
